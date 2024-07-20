@@ -1,0 +1,35 @@
+TEST 1 (EASY)
+walk clouds
+{"A Walk in the Clouds":[1995],"Khe Sanh: A Walk in the Clouds":[2003],"Walk in the Clouds":[2010]}
+
+TEST2 (EASY)
+hard the
+{"Sin City: The Hard Goodbye":[2012],"Walk Hard: The Dewey Cox Story":[2007],"The Complete Walk: Richard III":[2016]}
+
+TEST3 (HARD)
+dog the
+{"Harry the Dirty Dog":[1988,1997],"Harry the Dirty Dog and More Terrific Tails":[2002],"Walk the Dog":[2014,2014,2008],"Dogs Walk, Fish Talk, and the Baron Jumps Over the Moon":[1990],"Taking the Dog for a Walk":[2014]}
+
+TEST4 (HARD)
+how the
+{"The All New Harry Hill Show":[2003],"The Harry Krouse Talent Show":[1948],"The Harry Secombe Show":[1955,1968],"Grace Potter & the Nocturnals Album Release Show":[2012]}
+
+TEST5 (EASY)
+going walk
+{"Zombie TV Zombies Going to Zombie Walk":[2012],"Going for a Walk":[2011]}
+
+TEST6 (MEDIUM)
+man the
+{"Fighting, Flying and Driving: The Stunts of Spiderman 3":[2007],"The Amazing Spiderman T4 Premiere Special":[2012],"They Call Me Spiderman":[2016],"The Death of Spiderman":[2015],"The Superman/Aquaman Hour of Adventure":[1967],"Aquaman: War of the Water Worlds":[1996],"Aquaman: Sovereign of the Seas":[2007],"Aquaman: The Teen Drama":[2013],"Car and Driver Presents Ivan 'The Ironman' Stewart":[1998],"Pushing the Limits: Diaries of an Ironman":[2009],"The Road to Ironman":[2012],"The Ironman: Quitting Is for Crybabies":[2014],"The Antman":[2002],"The Man in the Maze":[2011],"War of the Bugs or Monsterous Manouvers in a Mushroom Maze":[1981],"Harry, the Country Postman":[1908],"Conman Harry and the Others":[1979],"The Speeches of Harry S. Truman":[1995],"Decision: The Conflicts of Harry S. Truman":[1964],"Walter Potter: The Man Who Married Kittens":[2015],"The Good Man's Sin":[1999],"Sin fin: Performances at the End of the World":[2010],"A Soldier's Evolution: The Sin of Man":[2014],"The Sin Woman":[1917],"The Sin of a Woman":[1912],"Celebrating the Man in Black: The Making of 'Walk the Line'":[2005],"Steven Curtis Chapman: The Walk":[1997],"The Golden Dustman's Walk":[1905],"A Walk to Remember: A Day on the Set with Mandy Moore":[2002]}
+
+TEST7 (MEDIUM)
+man my
+{"A Rummy Romance":[1917]}
+
+TEST8 (HARD)
+night of
+{"Days of Sin and Nights of Nymphomania":[1963],"One Night of Sin":[1993,2003]}
+
+TEST9 (HARD)
+boat the
+{"Is Harry on the Boat?":[2001,2002]}
